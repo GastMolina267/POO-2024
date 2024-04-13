@@ -5,19 +5,19 @@ Setup env
 ```
 virtualenv venv
 ```
-For Linux/Mac
+Para Linux/Mac
 ```
 source venv/bin/activate
 ```
-For Windows
+Para Windows
 ```
 source venv/Scripts/activate
 ```
-Install package
+Instalar paquetes
 ```
 pip install fastapi pymongo uvicorn
 ```
-Start server 
+Iniciar server
 ```
 uvicorn index:app --reload
 ```
