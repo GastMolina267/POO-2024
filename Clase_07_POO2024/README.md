@@ -31,7 +31,7 @@
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/Clase_07_POO2024.git
+   git clone https://github.com/GastMolina267/Clase_07_POO2024.git
 2. **Instalar dependencias**:
   Asegúrate de tener C++ y Qt instalados en tu sistema.
   Regístrate y obtén una clave API en OpenWeatherMap (u otra API de clima de tu preferencia).
