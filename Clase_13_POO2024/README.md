@@ -27,7 +27,7 @@
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/proyecto-continuacion-ej14.git
+   git clone https://github.com/GastMolina267/proyecto-continuacion-ej14.git
    
 2. **Instalar dependencias**:
 
