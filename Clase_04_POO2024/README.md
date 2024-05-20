@@ -60,7 +60,7 @@
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/Clase_04_POO2024.git
+   git clone https://github.com/GastMolina267/Clase_04_POO2024.git
 2. **Instalar dependencias**:
   Asegúrate de tener C++ y Qt instalados en tu sistema.
   Sigue las instrucciones de instalación en sus respectivas páginas oficiales.
