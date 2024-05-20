@@ -1,4 +1,4 @@
-# Clase N°05
+# Clase N°04
 ## Ejercicios 📚
 
 ### Ejercicio 8
