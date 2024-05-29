@@ -1,7 +1,7 @@
 # Clase N°18
 ## Proyecto Continuación Ejercicio 16 📚
 > [!IMPORTANT]
-> Este repositorio es una continuación del Ejercicio 16 y añade funcionalidad de conexión a una base de datos SQL
+> Este repositorio es una continuación del Ejercicio 16 y añade funcionalidad de conexión a una base de datos NoSQL
 
 **Descripción:**
 - Este ejercicio continúa el trabajo realizado en las clases 5 y 7.
