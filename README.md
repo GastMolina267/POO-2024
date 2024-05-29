@@ -15,7 +15,10 @@
 - [![Qt][qt-badge]][qt-url] - Un marco de desarrollo de aplicaciones multiplataforma.
 - [![Python][python-badge]][python-url] - Un lenguaje de programación de alto nivel.
 - [![MongoDB][mongodb-badge]][mongodb-url] - Un sistema de base de datos NoSQL.
+- [![SQLite][sqlite-badge]][sqlite-url] - Una biblioteca de software que proporciona un sistema de gestión de bases de datos SQL.
 
+[sqlite-url]: https://www.sqlite.org/index.html
+[sqlite-badge]: https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white
 [qt-url]: https://www.qt.io/
 [qt-badge]: https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white
 [cplusplus-url]: https://es.wikipedia.org/wiki/C%2B%2B
