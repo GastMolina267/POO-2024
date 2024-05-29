@@ -1,12 +1,19 @@
 # Clase N°07
 ## Ejercicios 📚
 
+> [!IMPORTANT]
+> Este repositorio es una continuación del Ejercicio 14 y del Ejercicio 16, y añade funcionalidad de conexión a una base de datos NoSQL
+
 ### Ejercicio 14 (continuación)
 **Descripción:**
 - Publicar en la ventana de Login la temperatura actual en la Ciudad de Córdoba utilizando alguna API disponible.
 - Agregar un método en `Login` que permita mostrar u ocultar la información de la temperatura.
 - La ventana de Login debe tener como background una imagen descargada de internet, centrada y adaptada en tamaño sin deformar su aspecto, permitiendo al usuario modificar el tamaño del Login y manteniendo la imagen correctamente.
 - Agregar un método en `Login` que permita indicar la URL de la imagen que se mostrará en el background. En caso de que nunca se invoque este método, no se mostrará ninguna imagen.
+
+### Ejercicio 16 (continuación)
+**Descripción**:
+-Crear un endpoint para validar a los usuarios sea con un POST y que devuelva "denegado" o que devuelva el nombre y el apellido del usuario en el siguiente formato: "Juan Carlos::Ponce"
 
 ## Características principales 🙋‍♂️🙋‍♀️
 
@@ -19,6 +26,8 @@
 - [![C++][cplusplus-badge]][cplusplus-url] - Un lenguaje de programación de alto nivel.
 - [![Qt][qt-badge]][qt-url] - Un marco de desarrollo de aplicaciones multiplataforma.
 - [![API Clima][api-clima-badge]][api-clima-url] - API para obtener información meteorológica.
+- [![MongoDB][mongodb-badge]][mongodb-url] - Una base de datos NoSQL orientada a documentos.
+- [![FastAPI][fastapi-badge]][fastapi-url] - Un moderno framework web para construir APIs con Python 3.7+ basado en estándares de tipo.
 
 [qt-url]: https://www.qt.io/
 [qt-badge]: https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white
@@ -26,6 +35,10 @@
 [cplusplus-badge]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [api-clima-url]: https://openweathermap.org/api
 [api-clima-badge]: https://img.shields.io/badge/Weather%20API-0078D4?style=for-the-badge&logo=weather&logoColor=white
+[mongodb-url]: https://www.mongodb.com/
+[mongodb-badge]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white
+[fastapi-url]: https://fastapi.tiangolo.com/
+[fastapi-badge]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white
 
 ## Cómo empezar 🚀
 
