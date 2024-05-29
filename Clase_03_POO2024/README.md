@@ -32,6 +32,15 @@
 - Cargar 5 expresiones idiomáticas, como por ejemplo: "pan comido".
 - Publicar por consola ordenado alfabéticamente.
 
+### Ejercicio 6
+**Descripción:**
+- Crear un Empty qmake Project, crear una nueva clase (que no sea Persona, ni Cliente, ni Poste). Inventar una clase.
+- Cargar uno o más constructores, métodos y atributos.
+
+### Ejercicio 7
+**Descripción:**
+- Crear un Empty qmake Project y utilizar la clase creada en el ejercicio anterior para crear objetos y almacenarlos en un `std::vector`.
+
 ## Características principales 🙋‍♂️🙋‍♀️
 
 - **Números Aleatorios**: Generación y visualización de números aleatorios en un intervalo definido.
