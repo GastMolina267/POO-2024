@@ -1,0 +1,7 @@
+#include <QCoreApplication>
+#include <iostream>
+using namespace std;
+
+void Decir_Hola() {
+    cout << "Hola, desde la Biblioteca" << endl;
+}
